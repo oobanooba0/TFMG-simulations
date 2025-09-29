@@ -1,0 +1,12 @@
+{
+  "name": "TFMG-simulations",
+  "version": "0.3.5",
+  "title": "TFMG Simulations",
+  "author": "oobanooba",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.66"
+  ],
+  "space_travel_required": true,
+  "description": "This mod does nothing without TFMG. It only contains the simulations for TFMG."
+}
